@@ -1,6 +1,6 @@
 Hai! Selamat Datang!....
 
-- 👋 Saya Zalfa seorang freelancer asal Indonesia..
+- 👋 Saya Zalfa seorang website programmer asal Indonesia..
 - 👀 Tertarik dalam Web Development
 - 🌱 Sedang belajar PHP, Node JS, dan library/framework lainnya
 - 📫 Hubungi saya via instagram @zaltechdev
