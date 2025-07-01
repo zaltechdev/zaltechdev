@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Zalfa, A Junior Web Developer
+Hi, I'm Zalfa, A Junior Web Developer <br>
 Still learning and continuing to learn throughout life...
 
 # 🌐 Socials:
