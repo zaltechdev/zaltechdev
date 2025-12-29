@@ -10,6 +10,3 @@ Still learning and continuing to learn throughout life...
 ![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel)
 ![Node](https://img.shields.io/badge/Node.js-000000?logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaltechdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
