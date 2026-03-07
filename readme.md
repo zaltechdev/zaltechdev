@@ -10,3 +10,5 @@ Still learning and continuing to learn throughout life...
 ![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel)
 ![Node](https://img.shields.io/badge/Node.js-000000?logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql)
+![React](https://img.shields.io/badge/React-000000?logo=react)
+![Svelte](https://img.shields.io/badge/Svelte-000000?logo=svelte)
