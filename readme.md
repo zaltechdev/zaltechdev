@@ -10,6 +10,6 @@ Still learning and continuing to learn throughout life...
 ![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel)
 ![Node](https://img.shields.io/badge/Node.js-000000?logo=node.js)
 ![React](https://img.shields.io/badge/React-000000?logo=react)
-![Next.js](https://shields.io)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-000000?logo=svelte)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql)
