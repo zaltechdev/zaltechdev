@@ -19,5 +19,5 @@
 ### 📊 My G.H Stats
 
 <div align="left">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zaltechdev&langs_count=8&layout=compact" alt="streak">  
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zaltechdev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak">  
 </div>
