@@ -19,5 +19,5 @@
 ### 📊 My G.H Stats
 
 <div align="left">
-    <img src="https://readme-gh-stats.vercel.app/api/top-langs/?username=zaltechdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html" alt="Top Languages" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=zaltechdev&theme=transparent&locale=id&short_numbers=true&mode=weekly" alt="streak">  
 </div>
