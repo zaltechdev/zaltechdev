@@ -19,5 +19,5 @@
 ### 📊 My G.H Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=zaltechdev&theme=transparent&locale=id&short_numbers=true&mode=weekly" alt="streak">  
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zaltechdev&langs_count=8&layout=compact" alt="streak">  
 </div>
