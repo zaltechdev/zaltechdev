@@ -1,6 +1,9 @@
 ## Hi there, welcome to my G.H Profile!
 
 *Ingin menjadi programmer handal tapi enggan tidak ngoding - calon orang ganteng dan intelek*
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔍 **Current Focus**: Engineering custom solutions for client business problems.
@@ -19,5 +22,7 @@
 ### 📊 My G.H Stats
 
 <div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaltechdev&theme=tokyo-night&hide_border=true&bg_color=0000000&color=C77DFF&line=9D4EDD&point=C77DFF" />
+  
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zaltechdev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak">  
 </div>
